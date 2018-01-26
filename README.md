@@ -1,6 +1,8 @@
 # bashbot
 A Telegram bot written in bash.
 
+
+## Dependences
 Depends on [tmux](http://github.com/tmux/tmux).
 Uses [JSON.sh](http://github.com/dominictarr/JSON.sh).
 
