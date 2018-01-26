@@ -1,8 +1,8 @@
 # bashbot
 A Telegram bot written in bash.
 
-Depends on [tmux](http://github.com/tmux/tmux).
-Uses [JSON.sh](http://github.com/dominictarr/JSON.sh).
+<b>!!!!!!!!!!!!!!</b>Depends on [tmux](http://github.com/tmux/tmux).
+<b>!!!!!!!!!!!!!!</bUses [JSON.sh](http://github.com/dominictarr/JSON.sh).
 
 Released to the public domain wherever applicable.
 Elsewhere, consider it released under the [WTFPLv2](http://www.wtfpl.net/txt/copying/).
